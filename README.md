@@ -184,6 +184,8 @@
 
 - [通过一个网络请求完美封装一个网络模块](https://github.com/Meng997998/AndroidJX/blob/master/img/VX.png)
 
+- [Flutter视频合集](https://shimo.im/docs/X83C9tJh33JTKRtt)
+
 > 字节跳动面试集合
 
 - [谈谈线程池原理](android/thread1.md)
